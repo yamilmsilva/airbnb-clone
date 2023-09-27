@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Table of contents
 - [Overview]()
-  - [Requirements](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#screenshot)
-  - [Screenshot](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#screenshot)
-  - [Links](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#links)
-  - [Getting Started with Create React App](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#getting-started-with-create-react-app)
-- [My process](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#my-process)
-  - [Built with](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#built-with)
-  - [What I Learnt](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#what-i-learnt)
+  - [Requirements](#screenshot)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I Learnt](#what-i-learnt)
 - [Author](#author)
 
 ## Overview
