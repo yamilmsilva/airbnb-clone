@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+/* ---------------------- */
+/* Fonts                  */
+/* ---------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+
+/* ---------------------- */
+/* Custom properties      */
+/* ---------------------- */
+
+:root {
+  --clr-text-light: #918e9b;
+  --clr-accent: #ff385c;
+
+  --ff-main: "Poppins", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* ---------------------- */
+/* Reset                  */
+/* delete what it has and apply basic styles or style components or anything*/
+/* ---------------------- */
+
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+img {
+  display: block;
+  width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* ---------------------- */
+/* Typography             */
+/* ---------------------- */
+
+
+html {
+  font-family: var(--ff-main);
 }
 
-.App-link {
-  color: #61dafb;
+
+.grey {
+  color: var(--clr-text-light);
+}
+.bold {
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
