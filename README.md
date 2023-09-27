@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [My process](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#my-process)
   - [Built with](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#built-with)
   - [What I Learnt](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#what-i-learnt)
-- [Author](https://github.com/yamilmsilva/airbnb-clone/edit/main/README.md#author)
+- [Author](#author)
 
 ## Overview
 ### Requirements
